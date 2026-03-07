@@ -184,13 +184,3 @@ The guide covers:
 Hamza Ahmed Siddiqui<br>
 Cloud Engineer | DevOps Enthusiast | Software Developer
 </p>
-
-<p>
-This repository is part of my DevOps & Cloud Engineering portfolio.
-</p>
-
-<hr>
-
-<p align="center">
-Built with ❤️ using Terraform & AWS
-</p>
